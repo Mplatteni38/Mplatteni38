@@ -7,6 +7,6 @@
 - ⚡ Fun fact:  desejo de aprender, descobrir ou entender algo novo. 
 
 <!---
-Mplatteni38/Mplatteni38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Este é o repositório do meu perfil no GitHub.
+Aqui compartilho minha jornada e interesses na área de tecnologia.
 --->
