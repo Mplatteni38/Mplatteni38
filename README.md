@@ -13,7 +13,7 @@ Site temático inspirado na Nike, com animações suaves e foco em design modern
 <p align="center">
   <img src="https://mplatteni38.github.io/Projeto-Nike01/">
 </p>
-🔗 
+🔗 https://mplatteni38.github.io/Projeto-Nike01/
 
 ---
 
