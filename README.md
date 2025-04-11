@@ -13,7 +13,7 @@ Site temático inspirado na Nike, com animações suaves e foco em design modern
 <p align="center">
   <img src="https://via.placeholder.com/600x300?text=Nike+Site" alt="Nike Site" width="80%">
 </p>
-🔗 [Acessar Projeto](https://seu-link-aqui.com)
+🔗 
 
 ---
 
@@ -22,7 +22,7 @@ Aplicação que busca produtos em tempo real, exibe resultados e gráficos de pr
 <p align="center">
   <img src="https://via.placeholder.com/600x300?text=Guia+de+Pre%C3%A7os" alt="Guia de Preços" width="80%">
 </p>
-🔗 [Acessar Projeto](https://seu-link-aqui.com)
+
 
 ---
 
