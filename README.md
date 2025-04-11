@@ -11,7 +11,7 @@
 ### 🏀 Nike Landing Page
 Site temático inspirado na Nike, com animações suaves e foco em design moderno.
 <p align="center">
-  <img src="https://mplatteni38.github.io/Projeto-Nike01/">
+  <img src="https://images.tcdn.com.br/img/img_prod/1028923/tenis_nike_air_zoom_structure_23_marinho_branco_masculino_217_1_a06e576d45125b82959e43dd323a9f4a.jpg">
 </p>
 🔗 https://mplatteni38.github.io/Projeto-Nike01/
 
