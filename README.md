@@ -11,7 +11,7 @@
 ### 🏀 Nike Landing Page
 Site temático inspirado na Nike, com animações suaves e foco em design moderno.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Nike+Site" alt="Nike Site" width="80%">
+  <img src="https://mplatteni38.github.io/Projeto-Nike01/">
 </p>
 🔗 
 
