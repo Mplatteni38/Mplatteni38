@@ -11,7 +11,8 @@
 ### 🏀 Nike Landing Page
 Site temático inspirado na Nike, com animações suaves e foco em design moderno.
 <p align="center">
-  <img src="https://images.tcdn.com.br/img/img_prod/1028923/tenis_nike_air_zoom_structure_23_marinho_branco_masculino_217_1_a06e576d45125b82959e43dd323a9f4a.jpg">
+  <img src="![nike2](https://github.com/user-attachments/assets/0a22e5c2-a864-4d29-ab12-f0db5a83354d)
+">
 </p>
 🔗 https://mplatteni38.github.io/Projeto-Nike01/
 
@@ -20,7 +21,8 @@ Site temático inspirado na Nike, com animações suaves e foco em design modern
 ### 💰 Guia de Preços (com API Mercado Livre)
 Aplicação que busca produtos em tempo real, exibe resultados e gráficos de preços.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Guia+de+Pre%C3%A7os" alt="Guia de Preços" width="80%">
+  <img src="![nike2](https://github.com/user-attachments/assets/863857ae-05cd-4b35-961b-0800c873e599)
+">
 </p>
 
 
